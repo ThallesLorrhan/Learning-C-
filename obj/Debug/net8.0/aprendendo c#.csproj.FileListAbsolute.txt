@@ -1,0 +1,15 @@
+C:\Users\Bolos\Desktop\dev\aprendendo c#\obj\Debug\net8.0\aprendendo c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bolos\Desktop\dev\aprendendo c#\obj\Debug\net8.0\aprendendo c#.AssemblyInfoInputs.cache
+C:\Users\Bolos\Desktop\dev\aprendendo c#\obj\Debug\net8.0\aprendendo c#.AssemblyInfo.cs
+C:\Users\Bolos\Desktop\dev\aprendendo c#\obj\Debug\net8.0\aprendendo c#.csproj.CoreCompileInputs.cache
+C:\Users\Bolos\Desktop\dev\aprendendo c#\obj\Debug\net8.0\aprendendo c#.sourcelink.json
+C:\Users\Bolos\Desktop\dev\aprendendo c#\bin\Debug\net8.0\aprendendo c#.exe
+C:\Users\Bolos\Desktop\dev\aprendendo c#\bin\Debug\net8.0\aprendendo c#.deps.json
+C:\Users\Bolos\Desktop\dev\aprendendo c#\bin\Debug\net8.0\aprendendo c#.runtimeconfig.json
+C:\Users\Bolos\Desktop\dev\aprendendo c#\bin\Debug\net8.0\aprendendo c#.dll
+C:\Users\Bolos\Desktop\dev\aprendendo c#\bin\Debug\net8.0\aprendendo c#.pdb
+C:\Users\Bolos\Desktop\dev\aprendendo c#\obj\Debug\net8.0\aprendendo c#.dll
+C:\Users\Bolos\Desktop\dev\aprendendo c#\obj\Debug\net8.0\refint\aprendendo c#.dll
+C:\Users\Bolos\Desktop\dev\aprendendo c#\obj\Debug\net8.0\aprendendo c#.pdb
+C:\Users\Bolos\Desktop\dev\aprendendo c#\obj\Debug\net8.0\aprendendo c#.genruntimeconfig.cache
+C:\Users\Bolos\Desktop\dev\aprendendo c#\obj\Debug\net8.0\ref\aprendendo c#.dll
